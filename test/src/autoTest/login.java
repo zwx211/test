@@ -1,3 +1,5 @@
+package autoTest;
+
 import org.testng.annotations.Test;
 
 public class login {

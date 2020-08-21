@@ -1,3 +1,5 @@
+package autoTest;
+
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 

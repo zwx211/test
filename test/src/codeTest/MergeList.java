@@ -1,3 +1,5 @@
+package codeTest;
+
 public class MergeList {
     public class ListNode{
         private ListNode next;
