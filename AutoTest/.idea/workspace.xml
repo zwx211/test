@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1afba924-84be-4d40-b08a-8572b6f3fd97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/11/207ae9233fc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/19/000cfde8e2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/22/30a516cfe2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/26/80d4b80849c8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3/20bd9151b4c6001a179bc7763f3836ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/33/60c485b23ec8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/38/40841f0f3fc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4b/c08097f3e0c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4d/80792d71b4c6001a179bc7763f3836ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/56/b0127d0b4bc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5e/0021668ee2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/64/507b7c924dc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6c/602e0c60b6c6001a179bc7763f3836ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6f/10ca90b4e2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/72/306ce2ba3ec8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7e/90e3c0194dc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/90/20bb2f8cb5c6001a179bc7763f3836ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/99/4053dfdee2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9f/f09b359e4ac8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a9/d08bced24dc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ab/d08167214dc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ae/10d9ca2648c8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b2/00b1df4bb6c6001a179bc7763f3836ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b3/c0a2c2d23ec8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c/30b0260f3fc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c/50f31c3d8cc6001a12b3ec34341191e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ce/a019510c4dc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cf/2087f2e9b4c6001a179bc7763f3836ee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/de/103c63214dc8001a1188f52291ebbea7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e8/001f3873e2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f0/7099a5a7e2c5001a1343b1767cf131f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/CodeTest/.indexes/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/CodeTest/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SeleniumTest/.indexes/e4/81/a1/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SeleniumTest/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SeleniumTest/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.markers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/16.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/BaidutestTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/CodeTest.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Edge.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Solution.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/SpecialEle.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/Target.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/chrome.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/doudizhu.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/firefox.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2466693252.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2639862365.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2719142135.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2767154648.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3014363207.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/302092069.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3310689135.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3764086159.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3930828909.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4068974087.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/61993534.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/859694225.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CodeTest/2020/7/28/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CodeTest/2020/7/28/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CodeTest/2020/7/29/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/CodeTest/2020/7/29/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SeleniumTest/2020/6/27/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SeleniumTest/2020/6/27/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SeleniumTest/2020/7/27/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SeleniumTest/2020/7/27/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SeleniumTest/2020/7/29/refactorings.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/SeleniumTest/2020/7/29/refactorings.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_0_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_1.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/79d1e4dafc734bff814de93cb4a80de2/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/79d1e4dafc734bff814de93cb4a80de2/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/79d1e4dafc734bff814de93cb4a80de2/segments_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/79d1e4dafc734bff814de93cb4a80de2/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0_1.del" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_1.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/baf2a0a0dfadd3dc55c8eb723b6ef73a/_0.cfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/baf2a0a0dfadd3dc55c8eb723b6ef73a/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/baf2a0a0dfadd3dc55c8eb723b6ef73a/segments_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/baf2a0a0dfadd3dc55c8eb723b6ef73a/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.0.20200318-1040.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/AutoTestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/ExceptedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/HelloTestNg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/HelloTestNgTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/MutliThreadAnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/ParaMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/APITest/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeTest/CountStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeTest/LongCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeTest/MergerArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeTest/Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/parameter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AutoTest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/AutoTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeTest/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeTest/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeTest/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeTest/bin/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/SeleniumTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/SeleniumTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/CodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/Duplicate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/Edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/IE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/MirrorTree$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/MirrorTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/Reflect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/SpecialEle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/Target.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/chrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/doudizhu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/firefox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/test$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/bin/com/test001/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/out/production/SeleniumTest/com/test001/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/out/production/SeleniumTest/com/test001/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/CodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/IE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/Setting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/SpecialEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/chrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/doudizhu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/firefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumTest/src/com/test001/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/TestNg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNg/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/daydayup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/hs_err_pid25992.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day01$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day01$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day04$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day05$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day07$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day08$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day09.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Day12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/out/production/daydayup/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Day13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="210" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apitest\LocalRepo" />
+        <option name="mavenHome" value="D:/apitest/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apitest\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fMiQIyR9k69W8PvNnjW3PCf0yn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/moco" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\AutoTest\moco" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/java/AutoTest/extentReport/src/main/resources/testNg.xml">
+    <configuration name="D:/java/AutoTest/extentReport/src/main/resources/testNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="extentReport" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/extentReport/src/main/resources/testNg.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.DataProviderTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutliThreadAnnotion.mutliThread" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.MutliThreadAnnotion" />
+      <option name="METHOD_NAME" value="mutliThread" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APITest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="APITest" />
+      <option name="MAIN_CLASS_NAME" value="APITest.TimeOutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="extentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="extentReport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extentreport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="extentreport" />
+      <option name="MAIN_CLASS_NAME" value="extentreport.extentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/java/AutoTest/extentReport/src/main/resources/testNg.xml" />
+        <item itemvalue="TestNG.extentTest" />
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.MutliThreadAnnotion.mutliThread" />
+        <item itemvalue="TestNG.DataProviderTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1afba924-84be-4d40-b08a-8572b6f3fd97" name="Default Changelist" comment="" />
+      <created>1596034344751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596034344751</updated>
+      <workItem from="1596034349852" duration="4179000" />
+      <workItem from="1596121382151" duration="2485000" />
+      <workItem from="1597145822940" duration="2124000" />
+      <workItem from="1597147962301" duration="86000" />
+      <workItem from="1597148061352" duration="5977000" />
+      <workItem from="1597719445348" duration="8619000" />
+      <workItem from="1598166856366" duration="8466000" />
+      <workItem from="1598431869235" duration="657000" />
+      <workItem from="1598788497246" duration="3274000" />
+      <workItem from="1598883500957" duration="12598000" />
+      <workItem from="1599054684574" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="49" key="#&lt;default&gt;" timestamp="1597148002428">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="479" y="49" key="#&lt;default&gt;/0.0.1549.831@0.0.1549.831" timestamp="1597148002428" />
+    <state x="367" y="74" key="#Inspections" timestamp="1599055203013">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="74" key="#Inspections/0.0.1549.831@0.0.1549.831" timestamp="1599055203013" />
+    <state x="367" y="74" width="814" height="729" key="#Intentions" timestamp="1597156075226">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="74" width="814" height="729" key="#Intentions/0.0.1549.831@0.0.1549.831" timestamp="1597156075226" />
+    <state x="367" y="74" key="#Java" timestamp="1597147804013">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="74" key="#Java/0.0.1549.831@0.0.1549.831" timestamp="1597147804013" />
+    <state x="367" y="74" key="#Project_Structure" timestamp="1599055218966">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="74" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1599055218966" />
+    <state x="532" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598367107930">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="532" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831@0.0.1549.831" timestamp="1598367107930" />
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom" timestamp="1598973847734">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1598973847734" />
+    <state width="1506" height="213" key="GridCell.Tab.0.center" timestamp="1598973847734">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1598973847734" />
+    <state width="1506" height="213" key="GridCell.Tab.0.left" timestamp="1598973847734">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1598973847734" />
+    <state width="1506" height="213" key="GridCell.Tab.0.right" timestamp="1598973847734">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1598973847734" />
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom" timestamp="1597158621139">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1597158621139" />
+    <state width="1506" height="264" key="GridCell.Tab.1.center" timestamp="1597158621139">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1597158621139" />
+    <state width="1506" height="264" key="GridCell.Tab.1.left" timestamp="1597158621139">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1597158621139" />
+    <state width="1506" height="264" key="GridCell.Tab.1.right" timestamp="1597158621139">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1597158621139" />
+    <state x="305" y="71" key="Maven.ArtifactSearchDialog" timestamp="1597147538639">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="305" y="71" key="Maven.ArtifactSearchDialog/0.0.1549.831@0.0.1549.831" timestamp="1597147538639" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1598888678173">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1598888678173" />
+    <state x="468" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1599054687097">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="468" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1599054687097" />
+    <state x="518" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597146686546">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="518" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1549.831@0.0.1549.831" timestamp="1597146686546" />
+    <state x="546" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597157304798">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="546" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1549.831@0.0.1549.831" timestamp="1597157304798" />
+    <state x="0" y="143" key="com.intellij.troubleshooting.ui.CollectTroubleshootingInformationDialog" timestamp="1598888294325">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="0" y="143" key="com.intellij.troubleshooting.ui.CollectTroubleshootingInformationDialog/0.0.1549.831@0.0.1549.831" timestamp="1598888294325" />
+    <state x="179" y="51" key="new project wizard" timestamp="1599055002714">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="179" y="51" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1599055002714" />
+    <state x="432" y="189" key="run.anything.popup" timestamp="1596037462848">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="432" y="189" key="run.anything.popup/0.0.1549.831@0.0.1549.831" timestamp="1596037462848" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/APITest/MutliThreadAnnotion.java</url>
+          <line>6</line>
+          <properties class="APITest.MutliThreadAnnotion" method="mutliThread">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutoTest$CountStr.ic" NAME="CountStr Coverage Results" MODIFIED="1597736527424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AutoTest$AutoTestApi.ic" NAME="AutoTestApi Coverage Results" MODIFIED="1597150409243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

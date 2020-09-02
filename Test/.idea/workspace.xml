@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51ebc90c-288e-470d-9c7c-a89a636b0656" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apitest\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fK42NmP0Wj2MruXzud8Ec7v4VP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51ebc90c-288e-470d-9c7c-a89a636b0656" name="Default Changelist" comment="" />
+      <created>1595953242640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595953242640</updated>
+      <workItem from="1595953248296" duration="314000" />
+      <workItem from="1595953577507" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="677" y="275" key="FileChooserDialogImpl" timestamp="1595953655724">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="677" y="275" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1595953655724" />
+    <state width="731" height="213" key="GridCell.Tab.0.bottom" timestamp="1595953562027">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="731" height="213" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1595953562027" />
+    <state width="731" height="213" key="GridCell.Tab.0.center" timestamp="1595953562027">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="731" height="213" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1595953562027" />
+    <state width="731" height="213" key="GridCell.Tab.0.left" timestamp="1595953562027">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="731" height="213" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1595953562027" />
+    <state width="731" height="213" key="GridCell.Tab.0.right" timestamp="1595953562027">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="731" height="213" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1595953562027" />
+    <state x="0" y="116" key="SettingsEditor" timestamp="1595953591266">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="0" y="116" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1595953591266" />
+    <state x="589" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595953578365">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="589" y="344" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1595953578365" />
+    <state x="301" y="215" key="new project wizard" timestamp="1595953693761">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="301" y="215" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1595953693761" />
+  </component>
+</project>

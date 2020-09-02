@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9774cbed-53ae-4c3a-bf4d-7929231e8dd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eqbafFs7oZwwgMgk8r6vkdVOvU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../daydayup" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Application.ListTest">
+    <configuration name="CodeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test001.CodeTest" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test001.ListTest" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test001.test" />
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.CodeTest" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9774cbed-53ae-4c3a-bf4d-7929231e8dd5" name="Default Changelist" comment="" />
+      <created>1595052134897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595052134897</updated>
+      <workItem from="1595052138098" duration="653000" />
+      <workItem from="1595052824586" duration="75000" />
+      <workItem from="1595052916603" duration="91000" />
+      <workItem from="1595053032527" duration="7121000" />
+      <workItem from="1595063840659" duration="326000" />
+      <workItem from="1595064182713" duration="1377000" />
+      <workItem from="1595089204052" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="74" key="#Project_Structure" timestamp="1595063117456">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="74" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1595063117456" />
+    <state x="506" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595061643664">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="506" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1549.831@0.0.1549.831" timestamp="1595061643664" />
+    <state x="580" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1595061316665">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1595061316665" />
+    <state x="605" y="109" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1595063391293">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="605" y="109" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1549.831@0.0.1549.831" timestamp="1595063391293" />
+    <state x="811" y="171" key="FileChooserDialogImpl" timestamp="1595089281330">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="811" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1595089281330" />
+    <state x="511" y="0" key="SettingsEditor" timestamp="1595063765082">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="511" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1595063765082" />
+    <state x="473" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1595089205761">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="473" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1595089205761" />
+    <state x="489" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1595052248381">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="489" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1549.831@0.0.1549.831" timestamp="1595052248381" />
+    <state x="505" y="169" width="538" height="500" key="extract.method.dialog" timestamp="1595052328732">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="505" y="169" width="538" height="500" key="extract.method.dialog/0.0.1549.831@0.0.1549.831" timestamp="1595052328732" />
+    <state x="107" y="52" key="new project wizard" timestamp="1595064954344">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="107" y="52" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1595064954344" />
+  </component>
+</project>
