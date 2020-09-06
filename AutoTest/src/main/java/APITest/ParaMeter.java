@@ -24,7 +24,5 @@ public class ParaMeter {
                 {"wangwu",19}};
         return o;
     }
-        {
 
-    }
 }

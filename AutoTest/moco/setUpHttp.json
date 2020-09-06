@@ -131,6 +131,20 @@
     "response": {
       "text": "zheshichongdingxiangdewnagye"
     }
+  },
+  {
+    "description": "返回cookie信息的get请求",
+    "request": {
+      "uri": "/getCookies",
+      "method": "get"
+    },
+    "response": {
+      "text": "cookie message",
+      "cookies": {
+        "login": "true"
+
+      }
+    }
   }
 
 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "用户管理套件">
+    <test name = "用户管理系统测试用例">
+        <classes>
+            <class name = "com.study.cases.LoginTest">
+                <methods>
+                    <include name = "loginTrue"/>
+                    <include name = "loginFalse"/>
+                </methods>
+            </class>
+            <class name = "com.study.cases.AddUserCase">
+                <methods>
+                    <include name = "addUser"/>
+                </methods>
+            </class>
+            <class name = "com.study.cases.GetUserListTest">
+                <methods>
+                    <include name = "getUserList"/>
+                </methods>
+            </class>
+            <class name = "com.study.cases.GetUserInfoTest">
+                <methods>
+                    <include name = "getUserInfo"/>
+                </methods>
+            </class>
+            <class name = "com.study.cases.UpdateUserTest">
+                <methods>
+                    <include name = "updateUser"/>
+                    <include name = "delUser"/>
+                </methods>
+            </class>
+
+
+
+        </classes>
+
+
+    </test>
+</suite>

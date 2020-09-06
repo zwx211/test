@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3c44c81-b1ee-4e21-aa0b-a4d02d5aedc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/src/main/java/com/study/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/src/main/java/com/study/controller/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/src/main/resources/mapper/mysql.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/java/com/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/java/com/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/java/com/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/java/com/server/MyGetMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/java/com/server/MyPostMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/java/com/springboot/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/Springboot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/httpClient/src/main/java/com/course/code/cookies/MyCookiesForGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/httpClient/src/main/java/com/course/code/cookies/MyCookiesForPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest/httpClient/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/httpClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/httpClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/httpClient/src/main/java/com/course/code/HttpClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/httpClient/src/main/java/com/course/code/HttpClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/moco/setUpHttp.json" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/moco/setUpHttp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTest/src/main/java/APITest/ParaMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTest/src/main/java/APITest/ParaMeter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h7cchJPzPcJqoDcVzcvQGAR1zc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AutoTest" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c44c81-b1ee-4e21-aa0b-a4d02d5aedc2" name="Default Changelist" comment="" />
+      <created>1599365651709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599365651709</updated>
+      <workItem from="1599365652994" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1599365699359">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1599365699359" />
+  </component>
+</project>
