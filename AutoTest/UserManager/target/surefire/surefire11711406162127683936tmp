@@ -1,0 +1,5 @@
+#surefire
+#Tue Sep 08 21:23:39 CST 2020
+basedir=D\:\\java\\AutoTest\\UserManager
+user.dir=D\:\\java\\AutoTest\\UserManager
+localRepository=D\:\\apitest\\LocalRepo

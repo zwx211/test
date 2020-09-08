@@ -2,56 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1afba924-84be-4d40-b08a-8572b6f3fd97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/study/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/study/controller/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/study/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/server/MyGetMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/server/MyPostMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/springboot/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springboot/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/cases/AddUserCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/cases/GetUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/cases/GetUserListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/cases/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/cases/UpdateUserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/config/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/config/TestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/AddUserCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/GetUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/GetUserListInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/InterfaceName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/LoginCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/UpdateUserCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/utils/ConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/java/com/study/utils/DataBaseUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/resources/databaseConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserManager/src/main/resources/testNg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpClient/src/main/java/com/course/code/cookies/MyCookiesForGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpClient/src/main/java/com/course/code/cookies/MyCookiesForPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpClient/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeTest/CodeTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/ExcelTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/LargestNun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daydayup/src/com/company/SameWordsCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/extentReport/target/classes/extentreport/ExtentTestNGIReporterListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/httpClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpClient/src/main/java/com/course/code/HttpClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpClient/src/main/java/com/course/code/HttpClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moco/setUpHttp.json" beforeDir="false" afterPath="$PROJECT_DIR$/moco/setUpHttp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/APITest/ParaMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/APITest/ParaMeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot/src/main/java/com/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Springboot/src/main/java/com/springboot/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Springboot/src/main/java/com/springboot/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/META-INF/UserManager.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/AddUserCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/AddUserCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/GetUserInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/GetUserInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/GetUserListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/GetUserListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/UpdateUserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/cases/UpdateUserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/config/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/config/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/config/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/config/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/config/TestConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/config/TestConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/AddUserCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/AddUserCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/GetUserInfoCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/GetUserInfoCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/GetUserListInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/GetUserListInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/InterfaceName.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/InterfaceName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/LoginCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/LoginCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/UpdateUserCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/UpdateUserCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/utils/ConfigFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/utils/ConfigFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserManager/target/classes/com/study/utils/DataBaseUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/UserManager/target/classes/com/study/utils/DataBaseUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../daydayup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../daydayup/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +98,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../daydayup" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -130,14 +108,14 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\AutoTest\Mybatis\src\main\resources\mapper" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\AutoTest\moco" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\AutoTest\moco" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\AutoTest\Mybatis\src\main\resources\mapper" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.D:/java/AutoTest/UserManager/src/main/resources/testNg.xml">
@@ -257,7 +235,8 @@
       <workItem from="1599364521257" duration="1056000" />
       <workItem from="1599365626210" duration="25000" />
       <workItem from="1599365702781" duration="15211000" />
-      <workItem from="1599388207255" duration="5659000" />
+      <workItem from="1599388207255" duration="7593000" />
+      <workItem from="1599485277096" duration="3436000" />
     </task>
     <servers />
   </component>
@@ -281,10 +260,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="367" y="74" key="#Java/0.0.1549.831@0.0.1549.831" timestamp="1597147804013" />
-    <state x="367" y="74" key="#Project_Structure" timestamp="1599281798294">
+    <state x="367" y="74" key="#Project_Structure" timestamp="1599570484014">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="367" y="74" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1599281798294" />
+    <state x="367" y="74" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1599570484014" />
     <state x="505" y="171" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1599142147317">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -305,26 +284,26 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="475" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1549.831@0.0.1549.831" timestamp="1599310964878" />
-    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1599388031360">
+    <state x="555" y="171" key="FileChooserDialogImpl" timestamp="1599485807052">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1599388031360" />
-    <state width="1506" height="283" key="GridCell.Tab.0.bottom" timestamp="1599393922811">
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1599485807052" />
+    <state width="1506" height="283" key="GridCell.Tab.0.bottom" timestamp="1599408563953">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="283" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1599393922811" />
-    <state width="1506" height="283" key="GridCell.Tab.0.center" timestamp="1599393922811">
+    <state width="1506" height="283" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1599408563953" />
+    <state width="1506" height="283" key="GridCell.Tab.0.center" timestamp="1599408563953">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="283" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1599393922811" />
-    <state width="1506" height="283" key="GridCell.Tab.0.left" timestamp="1599393922811">
+    <state width="1506" height="283" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1599408563953" />
+    <state width="1506" height="283" key="GridCell.Tab.0.left" timestamp="1599408563953">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="283" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1599393922811" />
-    <state width="1506" height="283" key="GridCell.Tab.0.right" timestamp="1599393922811">
+    <state width="1506" height="283" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1599408563953" />
+    <state width="1506" height="283" key="GridCell.Tab.0.right" timestamp="1599408563953">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1506" height="283" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1599393922811" />
+    <state width="1506" height="283" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1599408563953" />
     <state width="1506" height="264" key="GridCell.Tab.1.bottom" timestamp="1599388034472">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -365,10 +344,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="284" y="0" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1599315385961" />
-    <state x="468" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1599364030713">
+    <state x="468" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1599485276980">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="468" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1599364030713" />
+    <state x="468" y="240" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1599485276980" />
     <state x="518" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597146686546">
       <screen x="0" y="0" width="1549" height="831" />
     </state>

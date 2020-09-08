@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ed48e4a-87c8-4b5b-8713-4d78e5486b2b" name="Default Changelist" comment="" />
+    <list default="true" id="3ed48e4a-87c8-4b5b-8713-4d78e5486b2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeTest/CodeTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ExcelTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LargestNun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SameWordsCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/Springboot/src/main/java/com/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest/Springboot/src/main/java/com/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/Springboot/src/main/java/com/springboot/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest/Springboot/src/main/java/com/springboot/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutoTest/UserManager/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/META-INF/UserManager.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/cases/AddUserCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/cases/GetUserInfoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/cases/GetUserListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/cases/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/cases/UpdateUserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/config/ExtentTestNGIReporterListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/config/ExtentTestNGIReporterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/config/TestConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/AddUserCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/GetUserInfoCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/GetUserListInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/InterfaceName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/LoginCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/UpdateUserCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/utils/ConfigFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/com/study/utils/DataBaseUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/databaseConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/mapper/mysql.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutoTest/UserManager/target/classes/testNg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +50,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -30,12 +66,14 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1er1ZkhKqpxzoGmhC6IsLDDbQZB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -143,6 +181,8 @@
       <workItem from="1595862110470" duration="2706000" />
       <workItem from="1595946747526" duration="1202000" />
       <workItem from="1596033684811" duration="1263000" />
+      <workItem from="1599406274264" duration="2282000" />
+      <workItem from="1599485811111" duration="1635000" />
     </task>
     <servers />
   </component>
@@ -162,46 +202,46 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="158" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1595089425536" />
-    <state x="508" y="196" key="#com.intellij.ide.util.MemberChooser" timestamp="1595066651870">
+    <state x="508" y="196" key="#com.intellij.ide.util.MemberChooser" timestamp="1599570591953">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="508" y="196" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1595066651870" />
+    <state x="508" y="196" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1599570591953" />
     <state x="483" y="215" key="FileChooserDialogImpl" timestamp="1596034299061">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="483" y="215" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1596034299061" />
-    <state width="1351" height="198" key="GridCell.Tab.0.bottom" timestamp="1595346058245">
+    <state width="1506" height="210" key="GridCell.Tab.0.bottom" timestamp="1599408559281">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1351" height="198" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1595346058245" />
-    <state width="1351" height="198" key="GridCell.Tab.0.center" timestamp="1595346058245">
+    <state width="1506" height="210" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1599408559281" />
+    <state width="1506" height="210" key="GridCell.Tab.0.center" timestamp="1599408559281">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1351" height="198" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1595346058245" />
-    <state width="1351" height="198" key="GridCell.Tab.0.left" timestamp="1595346058245">
+    <state width="1506" height="210" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1599408559281" />
+    <state width="1506" height="210" key="GridCell.Tab.0.left" timestamp="1599408559281">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1351" height="198" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1595346058245" />
-    <state width="1351" height="198" key="GridCell.Tab.0.right" timestamp="1595346058245">
+    <state width="1506" height="210" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1599408559281" />
+    <state width="1506" height="210" key="GridCell.Tab.0.right" timestamp="1599408559281">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1351" height="198" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1595346058245" />
-    <state width="1348" height="247" key="GridCell.Tab.1.bottom" timestamp="1595089918861">
+    <state width="1506" height="210" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1599408559281" />
+    <state width="1506" height="263" key="GridCell.Tab.1.bottom" timestamp="1599408559277">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1348" height="247" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1595089918861" />
-    <state width="1348" height="247" key="GridCell.Tab.1.center" timestamp="1595089918861">
+    <state width="1506" height="263" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1599408559277" />
+    <state width="1506" height="263" key="GridCell.Tab.1.center" timestamp="1599408559277">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1348" height="247" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1595089918861" />
-    <state width="1348" height="247" key="GridCell.Tab.1.left" timestamp="1595089918861">
+    <state width="1506" height="263" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1599408559277" />
+    <state width="1506" height="263" key="GridCell.Tab.1.left" timestamp="1599408559277">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1348" height="247" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1595089918861" />
-    <state width="1348" height="247" key="GridCell.Tab.1.right" timestamp="1595089918861">
+    <state width="1506" height="263" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1599408559277" />
+    <state width="1506" height="263" key="GridCell.Tab.1.right" timestamp="1599408559277">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="1348" height="247" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1595089918861" />
+    <state width="1506" height="263" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1599408559277" />
     <state x="212" y="116" key="SettingsEditor" timestamp="1596034174849">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
