@@ -37,11 +37,25 @@ package codeTest;
             }
             bubbleSort(doArray);
             for(int i = 0;i<doArray.length;i++){
-                System.out.println(doArray[i]);
+                System.out.print(doArray[i]);
+
             }
 
 
 
+        }
+        static int doNum(int num, int len) {
+            StringBuffer buffer = new StringBuffer(num + "");
+            char c = buffer.charAt(buffer.length() - 1);
+
+            int bit = buffer.length();
+
+            while (bit != len) {
+                buffer.append(c);
+                bit++;
+            }
+
+            return Integer.parseInt(buffer.toString());
         }
 
         private static Random rand = new Random();
@@ -63,24 +77,12 @@ package codeTest;
 
         }
 
-        static int doNum(int num, int len) {
-            StringBuffer buffer = new StringBuffer(num + "");
-            char c = buffer.charAt(buffer.length() - 1);
 
-            int bit = buffer.length();
-
-            while (bit != len) {
-                buffer.append(c);
-                bit++;
-            }
-
-            return Integer.parseInt(buffer.toString());
-        }
 
         // 输出方法，因为sort是按照从小到大的进行排序的，所以要Display方法处理一下
         public static void display(int[] L) {
             for (int i : L) {
-                System.out.print(i + "\t");
+                System.out.print(i + "");
             }
         }
 
